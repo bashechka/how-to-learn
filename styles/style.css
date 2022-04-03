@@ -1,3 +1,15 @@
+h1, h2, h3, h4, h5, h6, p {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: inherit;
+  font-weight: inherit;
+	/*vertical-align: baseline;*/
+}
+
+ul {
+  list-style: none;
+}
 .page {
   min-width: 1100px;
   /* мы ещё не умеем делать мобильную версию сайта, */
@@ -7,10 +19,6 @@
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
-}
-
-ul {
-  list-style: none;
 }
 
 .header {
