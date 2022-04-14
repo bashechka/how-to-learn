@@ -1,0 +1,9 @@
+
+.footer__column {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-end;
+  margin: 0;
+  padding: 0;
+  /* border: 1px solid #2f80ed; */
+}

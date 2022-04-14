@@ -1,0 +1,10 @@
+
+.logo_place_footer {
+    margin: 0;
+    padding: 0;
+    background-image: url(../../images/logo_place_footer.svg);
+    background-position: center;
+    background-size: cover;
+    /* border: 1px solid #2f80ed;  */
+  }
+  
