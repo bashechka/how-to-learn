@@ -2,7 +2,6 @@
     height: 877px;
     width: 877px;
     background-image: url(../../images/kaufman-triangle.svg);
-    background-position: center;
     background-size: cover;
     position: absolute;
     top: 0;
@@ -10,7 +9,6 @@
     z-index: 0;
     margin: 0;
     padding: 0;
-    animation: rotation 20s infinite;
     /*border: 1px solid #2f80ed;*/
   }
   
