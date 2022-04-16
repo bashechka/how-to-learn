@@ -8,6 +8,6 @@
   margin: 0;
 }
 .khan__buy-link:hover {
-  opacity: 50% ;
+  opacity: 50%;
   transition: khan__buy-link ease;
 }

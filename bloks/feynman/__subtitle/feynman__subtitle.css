@@ -1,11 +1,11 @@
 
 .feynman__subtitle {
-    width: 388px;
-    z-index: 1;
-    font-size: 36px;
-    line-height: 51px;
-    font-weight: normal;
-    margin: 0;
-    padding: 0;
-    /*border: 1px solid #2f80ed;*/
-  }
+  width: 388px;
+  z-index: 1;
+  font-size: 36px;
+  line-height: 51px;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+  /*border: 1px solid #2f80ed;*/
+}

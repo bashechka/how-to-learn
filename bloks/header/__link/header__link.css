@@ -6,6 +6,6 @@
  margin: 0;
 }
 .header__link:hover {
-    opacity: 50% ;
-    transition: header__link ease;
+  opacity: 50%;
+  transition: header__link ease;
 }

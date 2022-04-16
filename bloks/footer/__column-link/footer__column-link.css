@@ -10,6 +10,6 @@
 }
 
 .footer__column-link:hover {
-  opacity: 50% ;
+  opacity: 50%;
   transition: footer__column-links ease;
 }
